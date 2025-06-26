@@ -1,8 +1,8 @@
-👋 Hi there, I’m @arafat-zihad
+Hi there, I’m @arafat-zihad
 
 CSE Student | Aspiring Software Engineer | Problem Solver | C++, Python, DSA, ML, AI | Open to Internships & Projects
 
-📫 Let's Connect
+Let's Connect
 - LinkedIn: linkedin.com/in/arafat-zihad
 - Portfolio: arafatzihad.com
 
