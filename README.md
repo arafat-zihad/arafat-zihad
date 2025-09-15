@@ -1,6 +1,6 @@
 Hi there, I’m @arafat-zihad
 
-CSE @MU | Aspiring Software Engineer | Competitive Programmer | C++, Python, DSA, ML, AI | Open to Internships & Projects
+CSE @Metropolitan University | Aspiring Software Engineer | Competitive Programmer | C++, Python, Java, DSA, ML, AI | Open to Internships & Projects
 
 Let's Connect
 - LinkedIn: linkedin.com/in/arafat-zihad
